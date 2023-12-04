@@ -1,4 +1,4 @@
 # toko_online
 
 project membuat toko online
-ini project denga 3 tim menggunakan 
+ini project dengan 3 tim menggunakan github
